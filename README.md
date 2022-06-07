@@ -17,5 +17,5 @@
 ## Further Reading About GRIP & TSF
 TSF - The Sparks Foundation - is a non-profit organization registered in India & Singapore and operates globally.
 
-GRIP - Graduate Rational Internship Program - is a unique offer for graduates & recent students to experience & join TSF.
+GRIP - Graduate Rotational Internship Program - is a unique offer for graduates & recent students to experience & join TSF.
 This is an unpaid one-month internship.
