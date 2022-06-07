@@ -1,4 +1,4 @@
-# Grip Data Science Internship Task 6
+# GRIP Data Science Internship Task 6
 ### A repository for the sixth task of the Data Science &amp; Business Analytics track of GRIP - The Sparks Foundation
 ---
 ### Task: Prediction Using Decision Tree Algorithm
