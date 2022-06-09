@@ -6,12 +6,16 @@
 - Visualize it graphically
 - The decision tree classifier should be able to predict the right class if weed feed it any new data
 
-#### Solution Steps
+#### Solution Steps (Images Below)
 1. Import the required libraries
 2. Read the dataset and Display some Information about it
 3. Instantiate a DecisionTree Classifier
 4. Visualize the tree
 
+<img src="https://github.com/Amr-Wael-Dev/grip-datascience-task6/blob/main/Resources/1.jpg" alt="Info About The Data" title="Info About The Data" width="800" height="600">&nbsp;
+<img src="https://github.com/Amr-Wael-Dev/grip-datascience-task6/blob/main/Resources/2.jpg" alt="Tree Visualization" title="Tree Visualization" width="800" height="600">&nbsp;
+
+---
 #### YouTube Video: [Amr Wael GRIP DataScience Task 6 Prediction Using Decision Tree Algorithm](https://www.youtube.com/watch?v=GVJf8OWSx9s)
 ---
 ## Further Reading About GRIP & TSF
